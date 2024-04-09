@@ -16,7 +16,7 @@ $(document).ready(function () {
         desc: "I want to be the reason behind your beautiful smile today and every day."
 	}, {
 		title: "",
-		desc: "Please tell me if I ever do something that makes you upset so I can fi x that."
+		desc: "Please let me know if I ever do something that makes you upset so I can fi x that."
 	}, {
 		title: "",
 		desc: "I want to make you the happiest woman in the world."
