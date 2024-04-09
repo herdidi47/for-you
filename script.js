@@ -4,13 +4,13 @@ $(document).ready(function () {
      */
     var content = [{
         title: "Hi Felicia!!",
-        desc: "This is just some random things that I wanted to convey to you"
+        desc: "This is just some random things that I wanted to convey to you."
     }, {
         title: "",
         desc: "You are such a light in my life. The world would be a much darker place without you."
     }, {
        title: "",
-       desc: "Every moment I spend with you is my favorite"
+       desc: "Every moment I spend with you is my favorite."
     }, {
         title: "",
         desc: "I want to be the reason behind your beautiful smile today and every day."
@@ -25,7 +25,7 @@ $(document).ready(function () {
         desc: "Missing you lots and looking forward to seeing you soon! (I will try my best to achieve this)"
 	}, {
 		title: "This is fl ower for you",
-		desc :"I hope I can give the real one soon"
+		desc :"I hope I can give you the real one soon"
 	},{
 		title: "",
 		desc :""
